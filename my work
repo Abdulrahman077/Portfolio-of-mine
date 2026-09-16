@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+
+<head>
+    <title>ABDUL</title>
+</head>
+
+<body>
+    <h1>ABDUL</h1>
+    <P>web developer</P>
+    <h2>about me</h2>
+    <a href="contact.html">contact me</a><br><br>
+    <a href="markup lan types.html">Multimedia Types</a>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa recusandae nostrum sit. Qui fugit veniam
+        reprehenderit cum ut omnis? Doloribus, iusto odio odit repudiandae vel tempore eveniet commodi dolorem aut dolor
+        quis rem architecto, reprehenderit excepturi natus quas, alias nobis minus dolores autem? Explicabo, totam.
+        Aperiam, perferendis quas est facilis nulla ipsum. Error, facere quos officia in aliquam minima ut. Inventore
+        culpa soluta, nisi, iure deserunt voluptates quia, totam et ea velit voluptas. Maxime quos alias dolore
+        excepturi enim consequuntur consequatur iusto aperiam rem et? Enim temporibus impedit sit delectus, quas ea
+        tenetur doloremque consectetur quasi itaque? Laboriosam, corporis quisquam?</p>
+    <h2>my interest</h2>
+    <ol>
+        <li>web development</li>
+        <li>reading</li>
+        <li>photography</li>
+    </ol>
+    <h3>my projects</h3>
+    <ol>
+        <li>
+            <h1>amazon E-commerce clone</h1>
+            <p>I completed Amazon E-commerce clone with React Js (frontend app)</p>
+        </li>
+        <li>
+            <h1>Travel website</h1>
+            <p>i completed a travel website which is going to help many people to take a trip with them</p>
+        </li>
+    </ol>
+    <p>social media:
+        <a href="https://www.instagram.com/__mr_._idiot__18_/?hl=en" target="_blank">instagram</a>
+        <a href="https://www.linkedin.com/in/abdul-rahman-02235523a/" target="_blank">linkedin</a>
+    </p>
+    <p>&copy;abdul</p>
+</body>
+
+</html>
