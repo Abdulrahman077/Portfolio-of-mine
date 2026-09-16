@@ -1,0 +1,64 @@
+<!--input types
+1. text
+2. password
+3. radio
+4. checkbox
+5. submit button
+6. reset button
+7. file
+8. date, datetime, datetime-local, month, week, time
+9. email
+10. number
+11. range
+12. textarea
+13. dropdown list(select)-->
+
+
+
+<!--form-->
+<form>
+    <h3>Personal Information</h3>
+    <label>Salutation:</label><br><select>
+        <option>none</option>
+    </select></input><br><br>
+    <label>First Name:</label><input type="text"><br><br>
+    <label>Last Name:</label><input type="text"><br><br>
+    <label>Gender:</label><input type="radio" name="gender"> Male <input type="radio" name="gender"> Female<br><br>
+    <label>Email:</label><input type="email"><br><br>
+    <label>Date of Birth:</label><input type="date"><br><br>
+    <label>Address:</label><br><textarea></textarea><br><br>
+    <input type="submit">
+
+</form>
+
+<!--form + table-->
+
+<form>
+    <h1>Student Registration Form</h1>
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" placeholder="Enter your name"></td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><input type="number" placeholder="Enter your age"></td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td><textarea placeholder="Enter your address"></textarea></td>
+        </tr>
+        <tr>
+            <td>Department: </td>
+            <td><select>
+                    <option>Computer Science</option>
+                    <option>Mathematics</option>
+                    <option>Physics</option>
+                </select></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit"></td>
+        </tr>
+    </table>
+</form>
